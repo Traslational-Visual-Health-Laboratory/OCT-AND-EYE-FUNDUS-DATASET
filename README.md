@@ -41,4 +41,5 @@ For example: ‘1221_OD_f_3’ corresponds to the 3rd sample picture of Eye Fund
 [^note]:
 
 **To reference this dataset, cite as follows:
+
 Hughes Cano, J. A., Olivares Pinto, U. & Thébault, S. “Dataset of Eye Fundus and OCT Images for the study of Diabetic Macular Edema and Diabetic Retinopathy”.**
