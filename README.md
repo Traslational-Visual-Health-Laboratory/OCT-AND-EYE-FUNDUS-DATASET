@@ -3,6 +3,8 @@ Dataset of eye fundus and OCT images for the study of diabetic macular edema and
 
 The dataset is composed by 1548 Eye Fundus images and 1113 Macular Optical Coherence Tomography (OCT) images taken between 2015 and 2022, thanks to CONACYT CF-2019-1759 grant, PAPIIT IN 205420, IMO (Instituto Mexicano de Oftalmología), APEC (Asociación Para Evitar la Ceguera) and INDEREB (Instituto de la Retina del Bajío). 
 
+![Screenshot](OCT/OCT7/1695_OI_o_1.jpg)
+
 
 
   In the file named ‘EYE FUNDUS.csv’, a list of the classification for all Eye Fundus images can be found.
