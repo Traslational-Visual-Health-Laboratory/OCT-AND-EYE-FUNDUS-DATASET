@@ -21,15 +21,15 @@ The size for all OCT images is 1408x573 pixels, and they all are in ‘.jpg’ f
 
 
 
-Both Eye Fundus and OCT images share the same nomenclature, including 4 different keys separated by the underscore symbol ‘_’:
+  Both Eye Fundus and OCT images share the same nomenclature, including 4 different keys separated by the underscore symbol ‘_’:
 
--1/ The first key refers to the patient. All images sharing the same number were taken from the same person.
+-1/ The first key refers to the patient. All images sharing the same number were taken from the same person.-
 
--2/ The second key provides information about the eyeball from which the sample was taken: ‘OD’ for right eyeball and ‘OI’ for left eyeball.
+-2/ The second key provides information about the eyeball from which the sample was taken: ‘OD’ for right eyeball and ‘OI’ for left eyeball.-
 
--3/ The third key provides the sample category for each image: ‘o’ for OCT, and ‘f’ for Eye Fundus.
+-3/ The third key provides the sample category for each image: ‘o’ for OCT, and ‘f’ for Eye Fundus.-
 
--4/ The fourth and last key represents the sample number taken from the same object of study.
+-4/ The fourth and last key represents the sample number taken from the same object of study.-
 
 
 
