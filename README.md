@@ -45,4 +45,4 @@ Diagnosis was established by retinal ophthalmologists.
 
 **To reference this dataset, cite as follows:**
 
-**_Hughes Cano, J. A., Olivares Pinto, U. & Thébault, S. “Dataset of Eye Fundus and OCT Images for the study of Diabetic Macular Edema and Diabetic Retinopathy”._**
+**_Hughes Cano, J. A., Olivares Pinto, U. & Thébault, S. C. “Dataset of Eye Fundus and OCT Images for the study of Diabetic Macular Edema and Diabetic Retinopathy”._**
